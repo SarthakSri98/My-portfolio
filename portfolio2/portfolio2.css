@@ -174,7 +174,8 @@
 	font-weight: 600;
 	letter-spacing: 1px;
 	font-size: 20px;
-
+        position: relative;
+	left:60px;
 }
 .proj_head{
 	font-size: 76px;
@@ -182,6 +183,7 @@
 }
 .project div div{
 	text-align: center;
+	max-width: 420px;
 }
 .project1{
 	display: grid;
